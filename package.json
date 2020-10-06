@@ -8,8 +8,8 @@
     "include-all": "^3.0.0",
     "rc": "1.2.8",
     "sails": "^1.0.0",
-    "sails-disk": "~1.0.0",
-    "snyk": "^1.316.1"
+    "sails-disk": "~1.1.2",
+    "snyk": "^1.410.0"
   },
   "scripts": {
     "debug": "node debug app.js",
