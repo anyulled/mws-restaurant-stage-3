@@ -8,7 +8,7 @@
     "include-all": "^3.0.0",
     "rc": "1.2.8",
     "sails": "^1.0.0",
-    "sails-disk": "~1.1.2",
+    "sails-disk": "~2.1.0",
     "snyk": "^1.410.0"
   },
   "scripts": {
