@@ -5,7 +5,7 @@
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
-    "include-all": "^3.0.0",
+    "include-all": "^4.0.3",
     "rc": "1.2.8",
     "sails": "^1.0.0",
     "sails-disk": "~2.1.0",
